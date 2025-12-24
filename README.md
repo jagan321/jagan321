@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 - 📧 **Email:** jagans.22it@kongu.edu  
-- 💼 **LinkedIn:** *(Add your LinkedIn URL)*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jagans3004*  
 
 ---
 
