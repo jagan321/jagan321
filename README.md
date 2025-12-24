@@ -57,29 +57,7 @@
 - 🏅 Computer Grapics – NPTEL
 ---
 
-## 📊 GitHub Stats (Animated)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagan321&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barathkumarr2004&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barathkumarr2004&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagan321&theme=radical&row=1&column=7" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
@@ -100,9 +78,8 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jagan321/jagan321/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jagan321/jagan/main/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
-
 
 
 
