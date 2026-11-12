@@ -148,7 +148,7 @@ A dashboard application designed to organize and display profile analytics infor
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/jagans30/jagans30/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/jagan321/jagan321/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake Animation"
   />
 </p>
