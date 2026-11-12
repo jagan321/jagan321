@@ -170,11 +170,11 @@ A dashboard application designed to organize and display profile analytics infor
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> jagans.22it@kongu.edu
+  📧 <b>Email:</b> Dpmjagan3@gmail.com
   <br/>
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jagans30/">Jagan S</a>
   <br/>
-  🐙 <b>GitHub:</b> <a href="https://github.com/jagan321">jagans30</a>
+  🐙 <b>GitHub:</b> <a href="https://github.com/jagan321">jagan321</a>
 </p>
 
 ---
